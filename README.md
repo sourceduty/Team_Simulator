@@ -16,6 +16,10 @@ Additionally, Team Simulator guides users through structured, step-by-step proce
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Sports Product](https://github.com/sourceduty/Sports_Product)
+<br>
+[Sports Insider](https://github.com/sourceduty/Sports_Insider)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
